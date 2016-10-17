@@ -1,2 +1,2 @@
 UCLA Statics Programming HomeWork.
-Python an R
+Python and R
